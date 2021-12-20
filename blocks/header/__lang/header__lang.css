@@ -1,9 +1,7 @@
 .header__lang {
-    /*border: 2px solid yellow;*/
     display: flex;
-    align-items: center;
-    /*justify-content: right;*/
+    align-items: end;
     list-style: none;
-    padding: 0;
+    padding: 0 0 6px;
     margin: 0;
 }
