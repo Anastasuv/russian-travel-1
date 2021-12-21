@@ -1,0 +1,8 @@
+.intro__content {
+    max-width: 690px;
+    margin: 0 auto 0 0; /*calc((100%-984px)/2);*/
+    /*border: 1px solid blue;*/
+    /*padding: 92px auto 0 inherit;*/
+
+   /* inherit*/
+}
