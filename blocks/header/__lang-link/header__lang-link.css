@@ -11,7 +11,8 @@
 }
 
 .header__lang-link:first-of-type {
-    text-decoration: underline;
+    display: inline-block;
+    border-bottom: 1px solid #fff;
     text-shadow: 0 0 1px #000000;
     padding: 0;
 }
