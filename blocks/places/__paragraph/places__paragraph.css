@@ -18,8 +18,12 @@
     .places__paragraph {
         line-height: 29.34px;
     }
-    .places__paragraph:last-of-type {
-        margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .places__paragraph {
+        font-size: 16px;
+        line-height: 26.08px;
+        white-space: normal;
     }
-    
 }
