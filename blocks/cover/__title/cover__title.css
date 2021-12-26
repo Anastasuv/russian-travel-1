@@ -12,3 +12,9 @@
     white-space: pre-line;
     z-index: 2;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover__title {
+        margin-top: 195px;
+    }
+}

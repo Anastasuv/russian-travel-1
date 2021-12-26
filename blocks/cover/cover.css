@@ -5,3 +5,9 @@
     padding: 0;
     position: relative;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        height: 640px;
+    }
+}

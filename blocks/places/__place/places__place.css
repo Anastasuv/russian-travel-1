@@ -1,13 +1,25 @@
 .places__place {
+    /*border: 1px solid green;*/
     max-width: 984px;
     display: grid;
     grid-template-columns: 460px 1fr;
-    grid-template-rows: repeat(3, min-content);
+    grid-template-rows: repeat(2, min-content);
     gap: 48px 40px;
-    align-items: end;
+    /*align-items: end;*/
     margin-top: 80px;
 }
 
 .places__place:first-of-type {
     margin-top: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .places__place {
+        grid-template-columns: 440px 1fr;
+        gap: 48px 30px;
+    }
+    .places__place:first-of-type {
+        margin-top: 0;
+    }
+    
 }
