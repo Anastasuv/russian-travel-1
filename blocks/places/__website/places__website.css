@@ -9,3 +9,9 @@
     max-width: 352px;
   }    
 }
+
+@media screen and (max-width: 320px) {
+  .places__website {
+    width: 288px;
+  }    
+}

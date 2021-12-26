@@ -20,3 +20,10 @@
         margin-top: 88px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .places {
+        max-width: 100%;
+        margin-top: 64px;
+    }
+}

@@ -26,3 +26,13 @@
         grid-template-rows: repeat(auto-fit, 264px);
     }
 }
+
+@media screen and (max-width: 320px) {
+    .photo-grid {
+        max-width: 288px;
+        margin-top: 64px;
+        row-gap: 12px;
+        grid-template-columns: repeat(auto-fit, 288px);
+        grid-template-rows: repeat(auto-fit, 216px);
+    }
+}
