@@ -1,7 +1,7 @@
-.cover {
+.cover__image {
     max-width: 1184px;
     height: 740px;
     margin: 92px auto 0;
     padding: 0;
-    position: relative;
+    
 }

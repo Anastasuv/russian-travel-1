@@ -8,8 +8,6 @@
     letter-spacing: 0;
     text-decoration: none;
     color: #FFFFFF;
-    display:inline-block;
+    display: inline-block;
     border-bottom: 1px solid #fff;
-    /*transition: border-bottom 0.3s linear;*/
-
 }
