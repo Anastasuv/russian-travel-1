@@ -34,7 +34,7 @@
 
 @media screen and (max-width: 320px) {
     .places__place {
-        grid-template-columns: 1fr;
+        grid-template-columns:  1fr;
         row-gap: 32px;
         margin-top: 50px;
         justify-items: center;

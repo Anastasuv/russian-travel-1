@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 1024px) {
     .places__paragraph {
-        line-height: 163%;
+        line-height: 26px;
     }
 }
 
@@ -29,7 +29,8 @@
 
 @media screen and (max-width: 320px) {
     .places__paragraph {
-        width: 288px;
-        white-space: normal;
+        margin-bottom: 25px;
+        width: 100%;
+        white-space: pre-line;
     }
 }

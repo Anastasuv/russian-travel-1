@@ -29,7 +29,7 @@
 
 @media screen and (max-width: 320px) {
     .photo-grid {
-        max-width: 288px;
+        width: 90%;
         margin-top: 64px;
         row-gap: 12px;
         grid-template-columns: repeat(auto-fit, 288px);
