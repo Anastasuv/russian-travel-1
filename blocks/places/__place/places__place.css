@@ -28,15 +28,15 @@
     .places__place {
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
-        margin-top: 72px;
-    }    
+        margin-top: 73px;
+    }  
 }
 
 @media screen and (max-width: 320px) {
     .places__place {
         grid-template-columns: 1fr;
         row-gap: 32px;
-        margin-top: 64px;
+        margin-top: 50px;
         justify-items: center;
     }    
 }
