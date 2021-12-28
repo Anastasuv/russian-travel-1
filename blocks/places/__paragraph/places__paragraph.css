@@ -16,20 +16,20 @@
 
 @media screen and (max-width: 1024px) {
     .places__paragraph {
-        line-height: 26px;
+        line-height: 25px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .places__paragraph {
         font-size: 16px;
+        line-height: 26px;
         white-space: normal;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 630px) {
     .places__paragraph {
-        margin-bottom: 25px;
         width: 100%;
         white-space: pre-line;
     }

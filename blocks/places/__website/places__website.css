@@ -1,7 +1,7 @@
 .places__website {
   max-width: 456px;
   max-height: 46px;
-  align-self: end;
+  align-self:flex-end;/*удалить*/
 }
 
 @media screen and (max-width: 768px) {
@@ -10,7 +10,7 @@
   }    
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 630px) {
   .places__website {
     width: 90%;
   }    
