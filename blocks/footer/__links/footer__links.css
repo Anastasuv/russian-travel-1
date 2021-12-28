@@ -9,8 +9,5 @@
     .footer__links {
         flex-direction: column;
         position: relative;
-        /*justify-content: end;
-        align-content: space-between;
-        margin-bottom: 32px;*/
     }
 }
