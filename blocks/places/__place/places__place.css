@@ -1,5 +1,4 @@
 .places__place {
-    /*border: 1px solid green;*/
     max-width: 984px;
     display: grid;
     grid-template-columns: fit-content(460px) 1fr;

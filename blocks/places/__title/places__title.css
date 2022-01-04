@@ -13,7 +13,7 @@
     .places__title {
         font-size: 42px;
         line-height: 46px;
-        white-space: pre-line;
+        max-width: 330px;
     }
 }
 
@@ -22,7 +22,6 @@
         width: 90%;
         font-size: 32px;
         line-height: 35px;
-        white-space: normal;
         text-align: left;
     }
 }
